@@ -1,2 +1,2 @@
-# Star-Wars-NLP
-Text Analysis and Text Mining of Star Wars movies´ scripts
+## Star-Wars-NLP
+Text Analysis and NLP of the Star Wars original trilogy scripts using Python
